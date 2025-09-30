@@ -27,7 +27,7 @@ B.S. in Information Technology with Cybersecurity Emphasis *(Expected Dec 2024)*
 
 ---
 
-## 📄 [Click here to download my resume (PDF)](./Destiny_Carlisle_Resume.pdf)
+## 📄 [Click here to download my resume (PDF)](https://github.com/Run325/DC_TechRes/blob/00ba5c695f105cd233e05867064a1d9a0b7da96a/DC25%20(1).pdf)
 
 _This GitHub project is a live resume and portfolio hub. For collaboration, mentoring, or job opportunities, feel free to connect via [LinkedIn](https://www.linkedin.com/in/destiny-c-01b0a381/)._
 
